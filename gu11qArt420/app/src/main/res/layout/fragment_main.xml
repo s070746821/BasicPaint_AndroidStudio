@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gu11q.gu11qart420.gu11qArtView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gu11qArtView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gu11q.gu11qart420.MainActivityFragment"
+    tools:showIn="@layout/activity_main">
+
+</com.gu11q.gu11qart420.gu11qArtView>
